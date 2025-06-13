@@ -1,5 +1,6 @@
 <?php include_once './layout/main.layout.php'; ?>
 <?php include_once './components/componentGroup/navbar.component.php'; ?>
+<?php include_once './components/componentGroup/footer.component.php'; ?>
 
 <div class="main-content">
     <h1 class="heading">GEMSTONE</h1>
@@ -10,6 +11,8 @@
 </div>
 
 <script src="/page/home/assets/js/home.js"></script>
+
+<?php echo getFooter(); ?>
 </body>
 
 </html>
