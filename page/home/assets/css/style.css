@@ -7,8 +7,12 @@
 body {
     margin: 0;
     padding: 0;
-    background: #FFB823;
-    background: url("/./assets/img/stone.png");
+    background-color: #FFB823;
+    background-image: url("/./assets/img/stone.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
     color: white;
     overflow: hidden;
     display: flex;
