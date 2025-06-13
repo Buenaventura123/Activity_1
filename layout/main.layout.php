@@ -15,6 +15,7 @@
     <!-- Global + Page CSS -->
     <link rel="stylesheet" href="/assets/css/navbar.css" />
     <link rel="stylesheet" href="/page/home/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/footer.css" />
 </head>
 
 <body>
