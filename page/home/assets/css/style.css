@@ -7,8 +7,8 @@
 body {
     margin: 0;
     padding: 0;
-    background: #020024;
-    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(72, 58, 160, 1) 43%, rgba(11, 29, 81, 1) 100%);
+    background: #FFB823;
+    background: url("/./assets/img/stone.png");
     color: white;
     overflow: hidden;
     display: flex;

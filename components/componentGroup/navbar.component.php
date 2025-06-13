@@ -1,6 +1,7 @@
 <nav class="navbar">
     <a href="/" class="active">Home</a>
-    <a href="#">Care</a>
-    <a href="#">Art</a>
-    <a href="#">Community</a>
+    <a href="#">Tools</a>
+    <a href="#">Minerals</a>
+    <a href="#">Job</a>
+    <a href="#">Transport</a>
 </nav>

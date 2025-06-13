@@ -2,7 +2,6 @@
 <?php include_once './components/componentGroup/navbar.component.php'; ?>
 
 <div class="main-content">
-    <img src="/assets/img/stone.png" alt="stone" class="bgimage">
     <h1 class="heading">GEMSTONE</h1>
     <p class="minitext">
         Discover the captivating beauty and unique properties of various gemstones, from their geological formation
