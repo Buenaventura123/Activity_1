@@ -15,6 +15,10 @@
 </head>
 
 <body>
+    <nav>
+        <?php echo getNavbar('Tools'); ?>
+    </nav>
+
     <div class="container">
         <main>
             <div class="image" style="position: relative; display: inline-block;">

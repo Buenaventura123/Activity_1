@@ -2,6 +2,10 @@
 <?php include_once './components/componentGroup/navbar.component.php'; ?>
 <?php include_once './components/componentGroup/footer.component.php'; ?>
 
+<nav>
+    <?php echo getNavbar('Home'); ?>
+</nav>
+
 <div class="main-content">
     <h1 class="heading">GEMSTONE</h1>
     <p class="minitext">
