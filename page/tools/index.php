@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <title>Greek Tools</title>
     <link rel="stylesheet" href="../../page/tools/assets/css/tools.css">
-    <script src="../../page/page1/assets/js/script.js" defer></script>
+    <script src="../../page/tools/assets/js/script.js" defer></script>
 </head>
 
 <body>
