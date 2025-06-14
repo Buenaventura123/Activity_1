@@ -10,8 +10,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Greek Tools</title>
-    <link rel="stylesheet" href="<?php echo BASE_PATH; ?> /page/tools/assets/css/tools.css">
-    <script src="<?php echo BASE_PATH; ?> /page/tools/assets/js/script.js" defer></script>
+    <link rel="stylesheet" href="../../page/tools/assets/css/tools.css">
+    <script src="../../page/tools/assets/js/script.js" defer></script>
 </head>
 
 <body>
