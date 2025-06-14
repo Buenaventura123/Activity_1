@@ -1,14 +1,17 @@
 <?php require_once __DIR__ . '/../../bootstrap.php'; ?>
 <?php include_once ROOT_PATH . '/layout/main.layout.php'; ?>
 <?php include ROOT_PATH . '/handlers/data.handler.php'; ?>
+<?php include_once ROOT_PATH . '/components/componentGroup/navbar.component.php'; ?>
+<?php include_once ROOT_PATH . '/components/componentGroup/footer.component.php'; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <title>Greek Tools</title>
-    <link rel="stylesheet" href="../../page/tools/assets/css/tools.css">
-    <script src="../../page/tools/assets/js/script.js" defer></script>
+    <link rel="stylesheet" href="<?php echo BASE_PATH; ?> /page/tools/assets/css/tools.css">
+    <script src="<?php echo BASE_PATH; ?> /page/tools/assets/js/script.js" defer></script>
 </head>
 
 <body>
@@ -45,6 +48,9 @@
         </main>
 
     </div>
+
+    <?php echo getFooter(); ?>
+
 </body>
 
 </html>
